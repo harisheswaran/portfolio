@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Full Stack Developer",
+      "organisation": "Duratech Solutions",
+      "startDate": "Sept, 2022",
+      "endDate": "Nov,2022",
+      "experiences": "Worked on front end technologies like Html,CSS and React",
+      "imageSrc": "history/Duratech.png"
+    },
+    {
+      "role": "Mobile App Development",
+      "organisation": "Gateway Sols.",
+      "startDate": "Feb,2023",
+      "endDate": "Apr, 2023",
+      "experiences": "Worked on dart programming and flutter framewroks",
+      "imageSrc": "history/googicon.png"
+    }
+  ]

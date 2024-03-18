@@ -1,0 +1,35 @@
+[
+    {
+      "title": "Job Allocation Technique",
+      "imageSrc": "projects/pr11.jpg",
+      "description": "This is a console based project for allocating the jobs in laptop service center.",
+      "skills": ["C", "Data Structures"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/harisheswaran/Job-Allocation-Technique"
+    },
+    {
+      "title": "Movie Ticket Booking",
+      "imageSrc": "projects/pr2.jpg",
+      "description": "This project is done by Java JDBC connectivity for storing and retreiving about ticket status.",
+      "skills": ["Java", "Sql", "JDBC"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/harisheswaran/Movie-ticket-booking-system"
+    },
+    {
+      "title": "Restaurant Table Booking",
+      "imageSrc": "projects/pr3.jpg",
+      "description": "A web application for restaurant management and table booking system in that application.",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/harisheswaran/Restaurant"
+    },
+    {
+      "title": "Shopping Cart",
+      "imageSrc": "projects/pr4.jpg",
+      "description": "A Responsive and interactive mobile application for shoe shopping cart.",
+      "skills": ["Flutter", "Dart"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/harisheswaran/ShoppingCart_App"
+    }
+  ]
+  
